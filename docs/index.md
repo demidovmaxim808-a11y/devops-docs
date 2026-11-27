@@ -10,4 +10,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://demidovmaxim808-a11y.github.io/devops-docs/`.
-[Несуществующая страница](missing.md)
